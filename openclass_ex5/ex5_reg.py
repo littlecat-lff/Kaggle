@@ -4,8 +4,6 @@
 # Desc  : 
 #  
 # Date  : 2016.11.04
-# Author: jiuqian(81691)
-# Email : jianhui.jjh@alibaba-inc.com
 #===============================================================================
 
 import numpy as np
