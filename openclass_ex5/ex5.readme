@@ -14,3 +14,6 @@ Make sure that this function's m-file is placed in the same working directory wh
 其中:
 (1) ex5_lr.py, ex5_gif.py: 都是线性回归的实现版本. 区别主要是: 第一个是静态的, 第二个是动态展现的.
 (2) ex5_reg.py: 逻辑回归的版本. 注意, 和标准答案给的最优解还是有一些差别. 主要是sgd的学习率和迭代次数问题.
+
+
+url: http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex5/ex5.html
