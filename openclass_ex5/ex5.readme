@@ -4,7 +4,10 @@ In this exercise, you will implement regularized linear regression and regulariz
 
 Data
 
-To begin, download ex5Data.zip and extract the files from the zip file. This data bundle contains two sets of data, one for linear regression and the other for logistic regression. It also includes a helper function named 'map_feature.m' which will be used for logistic regression. Make sure that this function's m-file is placed in the same working directory where you plan to write your code.
+To begin, download ex5Data.zip and extract the files from the zip file. 
+This data bundle contains two sets of data, one for linear regression and the other for logistic regression. 
+It also includes a helper function named 'map_feature.m' which will be used for logistic regression. 
+Make sure that this function's m-file is placed in the same working directory where you plan to write your code.
 
 ---------------------------------------------------------------------------------
 这个练习主要是考察正则化的. 分为两个: 线性回归和逻辑回归两个子练习. 目前代码实现都是通过sgd来迭代解决的.
